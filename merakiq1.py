@@ -1,0 +1,11 @@
+def ask():
+    print("ek bar")
+    print("mark Zukerberg")
+    print("bill gates")
+    print("steave jobs")
+    print("larry page")
+ask()
+ask()
+ask()
+ask()
+ask()
